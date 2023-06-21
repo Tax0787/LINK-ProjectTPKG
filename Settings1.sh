@@ -12,5 +12,5 @@ echo "-"
 echo "==============================================="
 echo "-"
 ls
-echo "input User and Repo""
+echo "input User and Repo"
 python TaxGitClone.py
